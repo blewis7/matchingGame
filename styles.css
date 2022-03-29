@@ -1,0 +1,50 @@
+* {
+    background-color: rgba(95, 180, 230, 0.952);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.row {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    height: 175px;
+    width: 125px;
+    border-radius: 8px;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+.pink {
+    background-color: pink;   
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.invisible {
+    background-color: rgb(231, 231, 231);
+}
